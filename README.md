@@ -13,7 +13,7 @@ pixelscaler algo input.bmp [output.bmp]
 
 The input file _must_ be in 
 [Bitmap](https://en.wikipedia.org/wiki/BMP_file_format)
-(BMP or BMP3) format, Version 3, 24 bits per pixel. 
+(BMP/BMP3) format, Version 3, 24 bits per pixel. 
 Generated output uses the same bitmap format. 
 
 The third argument is optional; if it is omitted, the
@@ -74,13 +74,13 @@ These images are BMP files; if they don't show up, try a different browser.
 
 | | | |
 |:---:|:---:|:---:|
-| | Original <br>&nbsp;<br> ![orig](repo/imgs/test_original.gif) | |
-| <br>`block2` <br>&nbsp;<br> ![block2](replo/imgs/block2.bmp) | | <br>`block3` <br>&nbsp;<br> ![block2](replo/imgs/block3.bmp) |
-| <br>`scale2x` <br>&nbsp;<br> ![scale2x](replo/imgs/scale2x.bmp) | | <br>`scale3x` <br>&nbsp;<br> ![scale3x](replo/imgs/scale3x.bmp) |
-| <br>`scale2xSFX` <br>&nbsp;<br> ![scale2xSFX](replo/imgs/scale2xSFX.bmp) | | <br>`scale3xSFX` <br>&nbsp;<br> ![scale3xSFX](replo/imgs/scale3xSFX.bmp) |
-| <br>`hq2xA` <br>&nbsp;<br> ![hq2xA](replo/imgs/hq2xA.bmp) | | <br>`hq3xA` <br>&nbsp;<br> ![hq3xA](replo/imgs/hq3xA.bmp) |
-| <br>`hq2xB` <br>&nbsp;<br> ![hq2xB](replo/imgs/hq2xB.bmp) | | <br>`hq3xB` <br>&nbsp;<br> ![hq3xB](replo/imgs/hq3xB.bmp) |
-| <br>`superXBR` <br>&nbsp;<br> ![superXBR](replo/imgs/xbr.bmp) | | |
+| | Original <br>&nbsp;<br> ![orig](blob/main/imgs/test_original.gif) | |
+| <br>`block2` <br>&nbsp;<br> ![block2](blob/main/imgs/block2.bmp) | | <br>`block3` <br>&nbsp;<br> ![block2](blob/main/imgs/block3.bmp) |
+| <br>`scale2x` <br>&nbsp;<br> ![scale2x](blob/main/imgs/scale2x.bmp) | | <br>`scale3x` <br>&nbsp;<br> ![scale3x](blob/main/imgs/scale3x.bmp) |
+| <br>`scale2xSFX` <br>&nbsp;<br> ![scale2xSFX](blob/main/imgs/scale2xSFX.bmp) | | <br>`scale3xSFX` <br>&nbsp;<br> ![scale3xSFX](blob/main/imgs/scale3xSFX.bmp) |
+| <br>`hq2xA` <br>&nbsp;<br> ![hq2xA](blob/main/imgs/hq2xA.bmp) | | <br>`hq3xA` <br>&nbsp;<br> ![hq3xA](blob/main/imgs/hq3xA.bmp) |
+| <br>`hq2xB` <br>&nbsp;<br> ![hq2xB](blob/main/imgs/hq2xB.bmp) | | <br>`hq3xB` <br>&nbsp;<br> ![hq3xB](blob/main/imgs/hq3xB.bmp) |
+| <br>`superXBR` <br>&nbsp;<br> ![superXBR](blob/main/imgs/xbr.bmp) | | |
 
 
 
