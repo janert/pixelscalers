@@ -74,7 +74,7 @@ These images are BMP files; if they don't show up, try a different browser.
 
 | | | |
 |:---:|:---:|:---:|
-| | Original <br>&nbsp;<br> ![orig](/imgs/test_original.gif) | |
+| | Original <br>&nbsp;<br> ![orig](/imgs/original.bmp) | |
 | <br>`block2` <br>&nbsp;<br> ![block2](/imgs/block2.bmp) | | <br>`block3` <br>&nbsp;<br> ![block2](/imgs/block3.bmp) |
 | <br>`scale2x` <br>&nbsp;<br> ![scale2x](/imgs/scale2x.bmp) | | <br>`scale3x` <br>&nbsp;<br> ![scale3x](/imgs/scale3x.bmp) |
 | <br>`scale2xSFX` <br>&nbsp;<br> ![scale2xSFX](/imgs/scale2xSFX.bmp) | | <br>`scale3xSFX` <br>&nbsp;<br> ![scale3xSFX](/imgs/scale3xSFX.bmp) |
