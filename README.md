@@ -74,13 +74,13 @@ These images are BMP files; if they don't show up, try a different browser.
 
 | | | |
 |:---:|:---:|:---:|
-| | Original <br>&nbsp;<br> ![orig](blob/main/imgs/test_original.gif) | |
-| <br>`block2` <br>&nbsp;<br> ![block2](blob/main/imgs/block2.bmp) | | <br>`block3` <br>&nbsp;<br> ![block2](blob/main/imgs/block3.bmp) |
-| <br>`scale2x` <br>&nbsp;<br> ![scale2x](blob/main/imgs/scale2x.bmp) | | <br>`scale3x` <br>&nbsp;<br> ![scale3x](blob/main/imgs/scale3x.bmp) |
-| <br>`scale2xSFX` <br>&nbsp;<br> ![scale2xSFX](blob/main/imgs/scale2xSFX.bmp) | | <br>`scale3xSFX` <br>&nbsp;<br> ![scale3xSFX](blob/main/imgs/scale3xSFX.bmp) |
-| <br>`hq2xA` <br>&nbsp;<br> ![hq2xA](blob/main/imgs/hq2xA.bmp) | | <br>`hq3xA` <br>&nbsp;<br> ![hq3xA](blob/main/imgs/hq3xA.bmp) |
-| <br>`hq2xB` <br>&nbsp;<br> ![hq2xB](blob/main/imgs/hq2xB.bmp) | | <br>`hq3xB` <br>&nbsp;<br> ![hq3xB](blob/main/imgs/hq3xB.bmp) |
-| <br>`superXBR` <br>&nbsp;<br> ![superXBR](blob/main/imgs/xbr.bmp) | | |
+| | Original <br>&nbsp;<br> ![orig](/imgs/test_original.gif) | |
+| <br>`block2` <br>&nbsp;<br> ![block2](/imgs/block2.bmp) | | <br>`block3` <br>&nbsp;<br> ![block2](/imgs/block3.bmp) |
+| <br>`scale2x` <br>&nbsp;<br> ![scale2x](/imgs/scale2x.bmp) | | <br>`scale3x` <br>&nbsp;<br> ![scale3x](/imgs/scale3x.bmp) |
+| <br>`scale2xSFX` <br>&nbsp;<br> ![scale2xSFX](/imgs/scale2xSFX.bmp) | | <br>`scale3xSFX` <br>&nbsp;<br> ![scale3xSFX](/imgs/scale3xSFX.bmp) |
+| <br>`hq2xA` <br>&nbsp;<br> ![hq2xA](/imgs/hq2xA.bmp) | | <br>`hq3xA` <br>&nbsp;<br> ![hq3xA](/imgs/hq3xA.bmp) |
+| <br>`hq2xB` <br>&nbsp;<br> ![hq2xB](/imgs/hq2xB.bmp) | | <br>`hq3xB` <br>&nbsp;<br> ![hq3xB](/imgs/hq3xB.bmp) |
+| <br>`superXBR` <br>&nbsp;<br> ![superXBR](/imgs/xbr.bmp) | | |
 
 
 
