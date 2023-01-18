@@ -11,15 +11,15 @@ stand-alone tool, using a common, general-purpose programming language.
 pixelscaler algo input.bmp [output.bmp]
 ```
 
-The input file _must_ be in 
-[Bitmap](https://en.wikipedia.org/wiki/BMP_file_format)
+The input filename is given as the second argument. The input file
+_must_ be in [Bitmap](https://en.wikipedia.org/wiki/BMP_file_format)
 (BMP/BMP3) format, Version 3, 24 bits per pixel. 
 Generated output uses the same bitmap format. 
 
 The third argument is optional; if it is omitted, the
 output file will be named `output.bmp`. 
 
-The second argument selects the scaling algorithm to use, it must
+The first argument selects the scaling algorithm to use, it must
 be one of: `block2`, `block3`, `scale2x`, `scale2xSFX`, `scale3x`, 
 `scale3xSFX`, `hq2xA`, `hq2xB`, `hq3xA`, `hq3xB`, `superXBR`.
 
